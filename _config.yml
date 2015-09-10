@@ -2,7 +2,7 @@
 title: "Izzie Fitzzie"
 email: "izzie.fitzzie@gmail.com"
 description: "A Southern Girl's Pursuit of Abs"
-baseurl: "/izzie-fitzzie/" # the subpath of your site, e.g. /blog/
+baseurl: "/izzie-fitzzie" # the subpath of your site, e.g. /blog/
 url: "http://melvinopolis.github.io" # the base hostname & protocol for your site
 twitter_username: izzie_fitzzie
 github_username:  izziez
